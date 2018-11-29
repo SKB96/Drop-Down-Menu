@@ -1,0 +1,21 @@
+article img{
+	float: left;
+	margin-right: 30px;
+}
+article h2{
+	font-size: 39px;
+	line-height: 43px;
+}
+.meta a{
+	font-style: italic;
+	color: #276056;
+	font-size: 14px;
+}
+.meta li{
+	display: inline;
+}
+.post_info{
+	font-style: italic;
+	color: #276056;
+	font-size: 12px;
+}

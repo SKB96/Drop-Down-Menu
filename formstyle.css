@@ -1,0 +1,29 @@
+body{
+	text-align: center;
+	background-color: #666;
+}
+h1{
+	font-size: 80px;
+	background-color: #666;
+	font-family: cursive;
+	letter-spacing: -5px;
+	text-shadow: 1px 2px 5px black;
+}
+form ul{
+	list-style: none;
+	padding-left: 0;
+}
+form ul li{
+	margin-bottom: 20px;
+}
+label{
+	display: block;
+	cursor: pointer;
+	color: #292929;
+	font-family: sans-serif;
+	padding-left: 8px;
+}
+textarea{
+	width: 400px;
+	height: 200px;
+}
